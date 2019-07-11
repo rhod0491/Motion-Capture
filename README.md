@@ -17,4 +17,4 @@ Note: a [bug](https://github.com/processing/processing-sound/issues/39) in the s
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uPc_oYV3cr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo](https://i.imgur.com/gSmM9nw.png)](https://www.youtube.com/watch?v=uPc_oYV3cr8)
